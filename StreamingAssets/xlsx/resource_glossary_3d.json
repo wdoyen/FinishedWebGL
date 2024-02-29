@@ -1,0 +1,3315 @@
+{
+    "prefabData": [
+        {
+            "prefabName": "APC_01",
+            "contextDataList": [
+                {
+                    "partName": "APC_01",
+                    "path": "APC_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Hatch",
+                    "path": "APC_01.SM_Veh_APC_01_Hatch",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_L",
+                    "path": "APC_01.SM_Veh_APC_01_Track_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_R",
+                    "path": "APC_01.SM_Veh_APC_01_Track_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_L_1",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_L_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_L_2",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_L_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_L_3",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_L_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_L_4",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_L_4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_L_5",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_L_5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_L_6",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_L_6",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_L_7",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_L_7",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_R_1",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_R_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_R_2",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_R_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_R_3",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_R_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_R_4",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_R_4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_R_5",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_R_5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_R_6",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_R_6",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_01_Track_Wheel_R_7",
+                    "path": "APC_01.SM_Veh_APC_01_Track_Wheel_R_7",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "APC_02",
+            "contextDataList": [
+                {
+                    "partName": "APC_02",
+                    "path": "APC_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Glass",
+                    "path": "APC_02.SM_Veh_APC_02_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Hatch",
+                    "path": "APC_02.SM_Veh_APC_02_Hatch",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Rear_Door_1",
+                    "path": "APC_02.SM_Veh_APC_02_Rear_Door_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Rear_Door_2",
+                    "path": "APC_02.SM_Veh_APC_02_Rear_Door_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_SteeringW",
+                    "path": "APC_02.SM_Veh_APC_02_SteeringW",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Wheel_fl",
+                    "path": "APC_02.SM_Veh_APC_02_Wheel_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Wheel_fr",
+                    "path": "APC_02.SM_Veh_APC_02_Wheel_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Wheel_rl",
+                    "path": "APC_02.SM_Veh_APC_02_Wheel_rl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_02_Wheel_rr",
+                    "path": "APC_02.SM_Veh_APC_02_Wheel_rr",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "APC_Heavy_01",
+            "contextDataList": [
+                {
+                    "partName": "APC_Heavy_01",
+                    "path": "APC_Heavy_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Turret_01",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Turret_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Gun_01",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Turret_01.SM_Veh_APC_Heavy_Gun_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Hatch_01",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Turret_01.SM_Veh_APC_Heavy_Hatch_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Hatch_02",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Turret_01.SM_Veh_APC_Heavy_Hatch_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_fl_01",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_fl_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_fl_02",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_fl_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_fr_01",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_fr_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_fr_02",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_fr_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_rl_01",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_rl_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_rl_02",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_rl_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_rr_01",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_rr_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_APC_Heavy_Wheel_rr_02",
+                    "path": "APC_Heavy_01.SM_Veh_APC_Heavy_Wheel_rr_02",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Drone_01",
+            "contextDataList": [
+                {
+                    "partName": "Drone_01",
+                    "path": "Drone_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Camera_01",
+                    "path": "Drone_01.SM_Veh_Drone_Camera_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Flap_Bottom_01",
+                    "path": "Drone_01.SM_Veh_Drone_Flap_Bottom_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Flap_l_01",
+                    "path": "Drone_01.SM_Veh_Drone_Flap_l_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Flap_l_02",
+                    "path": "Drone_01.SM_Veh_Drone_Flap_l_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Flap_r_01",
+                    "path": "Drone_01.SM_Veh_Drone_Flap_r_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Flap_r_02",
+                    "path": "Drone_01.SM_Veh_Drone_Flap_r_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Flap_Tail_l",
+                    "path": "Drone_01.SM_Veh_Drone_Flap_Tail_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Flap_Tail_r",
+                    "path": "Drone_01.SM_Veh_Drone_Flap_Tail_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Prop_01",
+                    "path": "Drone_01.SM_Veh_Drone_Prop_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Wheel_Arm_f",
+                    "path": "Drone_01.SM_Veh_Drone_Wheel_Arm_f",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Wheel_f",
+                    "path": "Drone_01.SM_Veh_Drone_Wheel_Arm_f.SM_Veh_Drone_Wheel_f",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Wheel_Arm_rl",
+                    "path": "Drone_01.SM_Veh_Drone_Wheel_Arm_rl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Wheel_rl",
+                    "path": "Drone_01.SM_Veh_Drone_Wheel_Arm_rl.SM_Veh_Drone_Wheel_rl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Wheel_Arm_rr",
+                    "path": "Drone_01.SM_Veh_Drone_Wheel_Arm_rr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Drone_Wheel_rr",
+                    "path": "Drone_01.SM_Veh_Drone_Wheel_Arm_rr.SM_Veh_Drone_Wheel_rr",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "GridGround",
+            "contextDataList": [
+                {
+                    "partName": "GridGround",
+                    "path": "GridGround",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "GroundPlane",
+            "contextDataList": [
+                {
+                    "partName": "GroundPlane",
+                    "path": "GroundPlane",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Helicopter_Attack_01",
+            "contextDataList": [
+                {
+                    "partName": "Helicopter_Attack_01",
+                    "path": "Helicopter_Attack_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Blades_Back",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Blades_Back",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Blades_Main",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Blades_Main",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Camera",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Camera",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Glass",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Gun_Horizontal",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Gun_Horizontal",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Gun_Vertical",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Gun_Horizontal.SM_Veh_Helicopter_Attack_01_Gun_Vertical",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Gun",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Gun_Horizontal.SM_Veh_Helicopter_Attack_01_Gun_Vertical.SM_Veh_Helicopter_Attack_01_Gun",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Stick_1",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Stick_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Stick_2",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Stick_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Stick_3",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Stick_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_01_Stick_4",
+                    "path": "Helicopter_Attack_01.SM_Veh_Helicopter_Attack_01_Stick_4",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Helicopter_Attack_02",
+            "contextDataList": [
+                {
+                    "partName": "Helicopter_Attack_02",
+                    "path": "Helicopter_Attack_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_02__Stick_2",
+                    "path": "Helicopter_Attack_02.SM_Veh_Helicopter_Attack_02__Stick_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_02_Blades_Back",
+                    "path": "Helicopter_Attack_02.SM_Veh_Helicopter_Attack_02_Blades_Back",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_02_Blades_Main",
+                    "path": "Helicopter_Attack_02.SM_Veh_Helicopter_Attack_02_Blades_Main",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_02_Glass",
+                    "path": "Helicopter_Attack_02.SM_Veh_Helicopter_Attack_02_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_02_Stick_1",
+                    "path": "Helicopter_Attack_02.SM_Veh_Helicopter_Attack_02_Stick_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Attack_02_Weapon_Attach",
+                    "path": "Helicopter_Attack_02.SM_Veh_Helicopter_Attack_02_Weapon_Attach",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Helicopter_Transport_01",
+            "contextDataList": [
+                {
+                    "partName": "Helicopter_Transport_01",
+                    "path": "Helicopter_Transport_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Blades_Back",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Blades_Back",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Blades_Main",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Blades_Main",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Door_1",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Door_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Door_1_Glass",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Door_1.SM_Veh_Helicopter_Transport_01_Door_1_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Door_2",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Door_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Door_2_Glass",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Door_2.SM_Veh_Helicopter_Transport_01_Door_2_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Glass",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Stick_1",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Stick_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Stick_2",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Stick_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Helicopter_Transport_01_Weapon_Attach",
+                    "path": "Helicopter_Transport_01.SM_Veh_Helicopter_Transport_01_Weapon_Attach",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Jet_01",
+            "contextDataList": [
+                {
+                    "partName": "Jet_01",
+                    "path": "Jet_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_FuelPods",
+                    "path": "Jet_01.SM_Veh_Jet_01_FuelPods",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Glass",
+                    "path": "Jet_01.SM_Veh_Jet_01_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_Cover_F",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Cover_F",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_Cover_L",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Cover_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_Cover_R",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Cover_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_Gear_F",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Gear_F",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_F",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Gear_F.SM_Veh_Jet_01_Wheel_F",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_Gear_L",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Gear_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_L",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Gear_L.SM_Veh_Jet_01_Wheel_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_Gear_R",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Gear_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_01_Wheel_R",
+                    "path": "Jet_01.SM_Veh_Jet_01_Wheel_Gear_R.SM_Veh_Jet_01_Wheel_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Tail_L",
+                    "path": "Jet_01.SM_Veh_Jet_02_Flap_Tail_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Tail_R",
+                    "path": "Jet_01.SM_Veh_Jet_02_Flap_Tail_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Wing_L_01",
+                    "path": "Jet_01.SM_Veh_Jet_02_Flap_Wing_L_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Wing_L_02",
+                    "path": "Jet_01.SM_Veh_Jet_02_Flap_Wing_L_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Wing_R_01",
+                    "path": "Jet_01.SM_Veh_Jet_02_Flap_Wing_R_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Wing_R_02",
+                    "path": "Jet_01.SM_Veh_Jet_02_Flap_Wing_R_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Stick",
+                    "path": "Jet_01.SM_Veh_Jet_02_Stick",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Tail_Wing_L",
+                    "path": "Jet_01.SM_Veh_Jet_02_Tail_Wing_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Tail_Wing_R",
+                    "path": "Jet_01.SM_Veh_Jet_02_Tail_Wing_R",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Jet_02",
+            "contextDataList": [
+                {
+                    "partName": "Jet_02",
+                    "path": "Jet_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Tail_L",
+                    "path": "Jet_02.SM_Veh_Jet_02_Flap_Tail_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Tail_R",
+                    "path": "Jet_02.SM_Veh_Jet_02_Flap_Tail_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Flap_Wing_L",
+                    "path": "Jet_02.SM_Veh_Jet_02_Flap_Wing_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Glass",
+                    "path": "Jet_02.SM_Veh_Jet_02_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Stick",
+                    "path": "Jet_02.SM_Veh_Jet_02_Stick",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_Cover_F",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Cover_F",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_Cover_L",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Cover_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_Cover_R",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Cover_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_Gear_F",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Gear_F",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_F",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Gear_F.SM_Veh_Jet_02_Wheel_F",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_Gear_L",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Gear_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_L",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Gear_L.SM_Veh_Jet_02_Wheel_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_Gear_R",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Gear_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_02_Wheel_R",
+                    "path": "Jet_02.SM_Veh_Jet_02_Wheel_Gear_R.SM_Veh_Jet_02_Wheel_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Jet_Flap_Wing_R",
+                    "path": "Jet_02.SM_Veh_Jet_Flap_Wing_R",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Jet_Attach_Bomb_01",
+            "contextDataList": [
+                {
+                    "partName": "Jet_Attach_Bomb_01",
+                    "path": "Jet_Attach_Bomb_01",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Light_Armored_Car_01",
+            "contextDataList": [
+                {
+                    "partName": "Light_Armored_Car_01",
+                    "path": "Light_Armored_Car_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Gunner",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Gunner",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Weapon",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Gunner.SM_Veh_Light_Armored_Car_01_Weapon",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Plug",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Plug",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Remote_Weapon",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Remote_Weapon",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Remote_Weapon_Top",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Remote_Weapon.SM_Veh_Light_Armored_Car_01_Remote_Weapon_Top",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Remote_Weapon_Guns",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Remote_Weapon.SM_Veh_Light_Armored_Car_01_Remote_Weapon_Top.SM_Veh_Light_Armored_Car_01_Remote_Weapon_Guns",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Remote_Weapon_Radar",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Remote_Weapon.SM_Veh_Light_Armored_Car_01_Remote_Weapon_Top.SM_Veh_Light_Armored_Car_01_Remote_Weapon_Radar",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Wheel_fl",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Wheel_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Wheel_fr",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Wheel_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Wheel_rl",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Wheel_rl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_01_Wheel_rr",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_01_Wheel_rr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_Glass_01",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_Glass_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Armored_Car_SteeringW_01",
+                    "path": "Light_Armored_Car_01.SM_Veh_Light_Armored_Car_SteeringW_01",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Light_Tank_01",
+            "contextDataList": [
+                {
+                    "partName": "Light_Tank_01",
+                    "path": "Light_Tank_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_L",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_R",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_1",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_2",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_3",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_4",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_5",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_6",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_6",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_7",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_7",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_L_8",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_L_8",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_1",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_2",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_3",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_4",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_5",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_6",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_6",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_7",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_7",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Track_Wheel_R_8",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Track_Wheel_R_8",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Turret",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Turret",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Barrel",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Turret.SM_Veh_Light_Tank_01_Barrel",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Hatch_l",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Turret.SM_Veh_Light_Tank_01_Hatch_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Light_Tank_01_Hatch_r",
+                    "path": "Light_Tank_01.SM_Veh_Light_Tank_01_Turret.SM_Veh_Light_Tank_01_Hatch_r",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "MultiVehicles",
+            "contextDataList": [
+                {
+                    "partName": "MultiVehicles",
+                    "path": "MultiVehicles",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Tank_wStates",
+                    "path": "MultiVehicles.Tank_wStates",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "STATES_Tank_wStates",
+                    "path": "MultiVehicles.Tank_wStates.STATES_Tank_wStates",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "InteractiveUI",
+                    "path": "MultiVehicles.InteractiveUI",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "HintText",
+                    "path": "MultiVehicles.InteractiveUI.HintText",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "OpenDoor",
+                    "path": "MultiVehicles.InteractiveUI.OpenDoor",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Text (TMP)",
+                    "path": "MultiVehicles.InteractiveUI.OpenDoor.Text (TMP)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "CloseDoor",
+                    "path": "MultiVehicles.InteractiveUI.CloseDoor",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Text (TMP)",
+                    "path": "MultiVehicles.InteractiveUI.CloseDoor.Text (TMP)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "OpenHood",
+                    "path": "MultiVehicles.InteractiveUI.OpenHood",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Text (TMP)",
+                    "path": "MultiVehicles.InteractiveUI.OpenHood.Text (TMP)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "CloseHood",
+                    "path": "MultiVehicles.InteractiveUI.CloseHood",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Text (TMP)",
+                    "path": "MultiVehicles.InteractiveUI.CloseHood.Text (TMP)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Inside",
+                    "path": "MultiVehicles.InteractiveUI.Inside",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Text (TMP)",
+                    "path": "MultiVehicles.InteractiveUI.Inside.Text (TMP)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Outside",
+                    "path": "MultiVehicles.InteractiveUI.Outside",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Text (TMP)",
+                    "path": "MultiVehicles.InteractiveUI.Outside.Text (TMP)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Wipers On",
+                    "path": "MultiVehicles.InteractiveUI.Wipers On",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Text (TMP)",
+                    "path": "MultiVehicles.InteractiveUI.Wipers On.Text (TMP)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "EventSystem",
+                    "path": "MultiVehicles.EventSystem",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "OffRoad_SUV",
+            "contextDataList": [
+                {
+                    "partName": "OffRoad_SUV",
+                    "path": "OffRoad_SUV",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "back_lights_red",
+                    "path": "OffRoad_SUV.back_lights_red",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "back_lights_white",
+                    "path": "OffRoad_SUV.back_lights_white",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "body",
+                    "path": "OffRoad_SUV.body",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "cabin_light",
+                    "path": "OffRoad_SUV.cabin_light",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "dependent_suspension",
+                    "path": "OffRoad_SUV.dependent_suspension",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_back",
+                    "path": "OffRoad_SUV.door_back",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_BL",
+                    "path": "OffRoad_SUV.door_BL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_BR",
+                    "path": "OffRoad_SUV.door_BR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_FL",
+                    "path": "OffRoad_SUV.door_FL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_FR",
+                    "path": "OffRoad_SUV.door_FR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft",
+                    "path": "OffRoad_SUV.driveshaft",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft_end",
+                    "path": "OffRoad_SUV.driveshaft_end",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft_start",
+                    "path": "OffRoad_SUV.driveshaft_start",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "engine",
+                    "path": "OffRoad_SUV.engine",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "engine_fan",
+                    "path": "OffRoad_SUV.engine_fan",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "frame",
+                    "path": "OffRoad_SUV.frame",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gear_changer",
+                    "path": "OffRoad_SUV.gear_changer",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "hand_brake",
+                    "path": "OffRoad_SUV.hand_brake",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "hood",
+                    "path": "OffRoad_SUV.hood",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "lights",
+                    "path": "OffRoad_SUV.lights",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal1",
+                    "path": "OffRoad_SUV.pedal1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal2",
+                    "path": "OffRoad_SUV.pedal2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal3",
+                    "path": "OffRoad_SUV.pedal3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer1",
+                    "path": "OffRoad_SUV.pointer1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer2",
+                    "path": "OffRoad_SUV.pointer2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer3",
+                    "path": "OffRoad_SUV.pointer3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer4",
+                    "path": "OffRoad_SUV.pointer4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer5",
+                    "path": "OffRoad_SUV.pointer5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_l",
+                    "path": "OffRoad_SUV.spring_b_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_r",
+                    "path": "OffRoad_SUV.spring_b_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_bl",
+                    "path": "OffRoad_SUV.spring_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_br",
+                    "path": "OffRoad_SUV.spring_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_l",
+                    "path": "OffRoad_SUV.spring_m_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_r",
+                    "path": "OffRoad_SUV.spring_m_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_l",
+                    "path": "OffRoad_SUV.spring_t_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_r",
+                    "path": "OffRoad_SUV.spring_t_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "steering_joint",
+                    "path": "OffRoad_SUV.steering_joint",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "steering_wheel",
+                    "path": "OffRoad_SUV.steering_wheel",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_b_l",
+                    "path": "OffRoad_SUV.turn_signal_b_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_b_r",
+                    "path": "OffRoad_SUV.turn_signal_b_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_f_l",
+                    "path": "OffRoad_SUV.turn_signal_f_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_f_r",
+                    "path": "OffRoad_SUV.turn_signal_f_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_BL",
+                    "path": "OffRoad_SUV.W_BL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_BR",
+                    "path": "OffRoad_SUV.W_BR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_FL",
+                    "path": "OffRoad_SUV.W_FL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_FR",
+                    "path": "OffRoad_SUV.W_FR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WB_B_L",
+                    "path": "OffRoad_SUV.WB_B_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WB_B_R",
+                    "path": "OffRoad_SUV.WB_B_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WB_T_L",
+                    "path": "OffRoad_SUV.WB_T_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WB_T_R",
+                    "path": "OffRoad_SUV.WB_T_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WH_L",
+                    "path": "OffRoad_SUV.WH_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WH_R",
+                    "path": "OffRoad_SUV.WH_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "wipers1",
+                    "path": "OffRoad_SUV.wipers1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "wipers2",
+                    "path": "OffRoad_SUV.wipers2",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "OffRoad_Truck",
+            "contextDataList": [
+                {
+                    "partName": "OffRoad_Truck",
+                    "path": "OffRoad_Truck",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "back_lights_red",
+                    "path": "OffRoad_Truck.back_lights_red",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "back_lights_white",
+                    "path": "OffRoad_Truck.back_lights_white",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "body",
+                    "path": "OffRoad_Truck.body",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "dependent_suspension1",
+                    "path": "OffRoad_Truck.body.dependent_suspension1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "dependent_suspension2",
+                    "path": "OffRoad_Truck.body.dependent_suspension2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_back",
+                    "path": "OffRoad_Truck.door_back",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_L",
+                    "path": "OffRoad_Truck.door_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_R",
+                    "path": "OffRoad_Truck.door_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft",
+                    "path": "OffRoad_Truck.driveshaft",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft_end",
+                    "path": "OffRoad_Truck.driveshaft_end",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft_star",
+                    "path": "OffRoad_Truck.driveshaft_star",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "engine",
+                    "path": "OffRoad_Truck.engine",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "engine_fan",
+                    "path": "OffRoad_Truck.engine_fan",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "frame",
+                    "path": "OffRoad_Truck.frame",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_bl",
+                    "path": "OffRoad_Truck.gas spring_b1_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_br",
+                    "path": "OffRoad_Truck.gas spring_b1_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_fl",
+                    "path": "OffRoad_Truck.gas spring_b1_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_fr",
+                    "path": "OffRoad_Truck.gas spring_b1_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_bl",
+                    "path": "OffRoad_Truck.gas spring_b2_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_br",
+                    "path": "OffRoad_Truck.gas spring_b2_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_fl",
+                    "path": "OffRoad_Truck.gas spring_b2_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_fr",
+                    "path": "OffRoad_Truck.gas spring_b2_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_bl",
+                    "path": "OffRoad_Truck.gas spring_t1_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_br",
+                    "path": "OffRoad_Truck.gas spring_t1_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_fl",
+                    "path": "OffRoad_Truck.gas spring_t1_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_fr",
+                    "path": "OffRoad_Truck.gas spring_t1_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_bl",
+                    "path": "OffRoad_Truck.gas spring_t2_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_br",
+                    "path": "OffRoad_Truck.gas spring_t2_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_fl",
+                    "path": "OffRoad_Truck.gas spring_t2_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_fr",
+                    "path": "OffRoad_Truck.gas spring_t2_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gear_changer1",
+                    "path": "OffRoad_Truck.gear_changer1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gear_changer2",
+                    "path": "OffRoad_Truck.gear_changer2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "hood",
+                    "path": "OffRoad_Truck.hood",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "lights",
+                    "path": "OffRoad_Truck.lights",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal1",
+                    "path": "OffRoad_Truck.pedal1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal2",
+                    "path": "OffRoad_Truck.pedal2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal3",
+                    "path": "OffRoad_Truck.pedal3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer1",
+                    "path": "OffRoad_Truck.pointer1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer2",
+                    "path": "OffRoad_Truck.pointer2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer3",
+                    "path": "OffRoad_Truck.pointer3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer4",
+                    "path": "OffRoad_Truck.pointer4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_bl",
+                    "path": "OffRoad_Truck.spring_b_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_br",
+                    "path": "OffRoad_Truck.spring_b_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_fl",
+                    "path": "OffRoad_Truck.spring_b_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_fr",
+                    "path": "OffRoad_Truck.spring_b_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_bl",
+                    "path": "OffRoad_Truck.spring_m_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_br",
+                    "path": "OffRoad_Truck.spring_m_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_fl",
+                    "path": "OffRoad_Truck.spring_m_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_fr",
+                    "path": "OffRoad_Truck.spring_m_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_bl",
+                    "path": "OffRoad_Truck.spring_t_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_br",
+                    "path": "OffRoad_Truck.spring_t_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_fl",
+                    "path": "OffRoad_Truck.spring_t_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_fr",
+                    "path": "OffRoad_Truck.spring_t_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "steering_joint",
+                    "path": "OffRoad_Truck.steering_joint",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "steering_wheel",
+                    "path": "OffRoad_Truck.steering_wheel",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_l",
+                    "path": "OffRoad_Truck.turn_signal_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_r",
+                    "path": "OffRoad_Truck.turn_signal_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_BL",
+                    "path": "OffRoad_Truck.W_BL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_BR",
+                    "path": "OffRoad_Truck.W_BR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_FL",
+                    "path": "OffRoad_Truck.W_FL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_FR",
+                    "path": "OffRoad_Truck.W_FR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WH_L",
+                    "path": "OffRoad_Truck.WH_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WH_R",
+                    "path": "OffRoad_Truck.WH_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "wipers1",
+                    "path": "OffRoad_Truck.wipers1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "wipers2",
+                    "path": "OffRoad_Truck.wipers2",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Pickup_Small_01",
+            "contextDataList": [
+                {
+                    "partName": "Pickup_Small_01",
+                    "path": "Pickup_Small_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Cage_01",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Cage_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Cage_02",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Cage_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Glass",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Payload_01",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Payload_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Payload_02",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Payload_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_SteeringW",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_SteeringW",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Wheel_fl",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Wheel_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Wheel_fr",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Wheel_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Wheel_rl",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Wheel_rl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Small_01_Wheel_rr",
+                    "path": "Pickup_Small_01.SM_Veh_Pickup_Small_01_Wheel_rr",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Pickup_Technical_01",
+            "contextDataList": [
+                {
+                    "partName": "Pickup_Technical_01",
+                    "path": "Pickup_Technical_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Glass",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Gun_Base",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Gun_Base",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Gun",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Gun_Base.SM_Veh_Pickup_Technical_01_Gun",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Gun_Handle",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Gun_Base.SM_Veh_Pickup_Technical_01_Gun.SM_Veh_Pickup_Technical_01_Gun_Handle",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Gun_Mag",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Gun_Base.SM_Veh_Pickup_Technical_01_Gun.SM_Veh_Pickup_Technical_01_Gun_Mag",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Gun_Belt",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Gun_Base.SM_Veh_Pickup_Technical_01_Gun.SM_Veh_Pickup_Technical_01_Gun_Mag.SM_Veh_Pickup_Technical_01_Gun_Belt",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_SteeringW",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_SteeringW",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Wheel_fl",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Wheel_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Wheel_fr",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Wheel_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Wheel_rl",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Wheel_rl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Pickup_Technical_01_Wheel_rr",
+                    "path": "Pickup_Technical_01.SM_Veh_Pickup_Technical_01_Wheel_rr",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Radar_Tank_01",
+            "contextDataList": [
+                {
+                    "partName": "Radar_Tank_01",
+                    "path": "Radar_Tank_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Radar_Base",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Radar_Base",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Bottom_Dish",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Radar_Base.SM_Veh_Radar_Tank_01_Bottom_Dish",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Top_Dish",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Radar_Base.SM_Veh_Radar_Tank_01_Top_Dish",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_L",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_R",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_1",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_2",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_3",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_4",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_5",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_6",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_6",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_7",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_7",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_L_8",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_L_8",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_1",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_2",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_3",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_4",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_5",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_6",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_6",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_7",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_7",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Radar_Tank_01_Track_Wheel_R_8",
+                    "path": "Radar_Tank_01.SM_Veh_Radar_Tank_01_Track_Wheel_R_8",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Rocket_Truck_01",
+            "contextDataList": [
+                {
+                    "partName": "Rocket_Truck_01",
+                    "path": "Rocket_Truck_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Base",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_Battery",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_1",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_2",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_3",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_4",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_5",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_5",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_6",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_6",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_7",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_7",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_8",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_8",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_9",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_9",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_10",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_10",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_11",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_11",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Rocket_12",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Base.SM_Veh_Rocket_Truck_01_Rocket_Battery.SM_Veh_Rocket_Truck_01_Rocket_12",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Glass",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_SteeringW",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_SteeringW",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Wheel_fl",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Wheel_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Wheel_fr",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Wheel_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Wheel_rl1",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Wheel_rl1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Wheel_rl2",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Wheel_rl2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Wheel_rr1",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Wheel_rr1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Rocket_Truck_01_Wheel_rr2",
+                    "path": "Rocket_Truck_01.SM_Veh_Rocket_Truck_01_Wheel_rr2",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Tank_USA_01",
+            "contextDataList": [
+                {
+                    "partName": "Tank_USA_01",
+                    "path": "Tank_USA_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_ReactiveArmor_01",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_ReactiveArmor_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_L",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_R",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_01",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_02",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_03",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_03",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_04",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_04",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_05",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_05",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_06",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_06",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_07",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_07",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_08",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_08",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_L_09",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_L_09",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_01",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_02",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_03",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_03",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_04",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_04",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_05",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_05",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_06",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_06",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_07",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_07",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_08",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_08",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Track_Wheel_R_09",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Track_Wheel_R_09",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Turret_01",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Turret_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Turret_Barrel_01",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Turret_01.SM_Veh_Tank_USA_Turret_Barrel_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Turret_Hatch_01",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Turret_01.SM_Veh_Tank_USA_Turret_Hatch_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Turret_Hatch_03",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Turret_01.SM_Veh_Tank_USA_Turret_Hatch_03",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Tank_USA_Turret_Hatch_04",
+                    "path": "Tank_USA_01.SM_Veh_Tank_USA_Turret_01.SM_Veh_Tank_USA_Turret_Hatch_04",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Tank_wStates",
+            "contextDataList": [
+                {
+                    "partName": "Tank_wStates",
+                    "path": "Tank_wStates",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "STATES_Tank_wStates",
+                    "path": "Tank_wStates.STATES_Tank_wStates",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "TransportPlane_01",
+            "contextDataList": [
+                {
+                    "partName": "TransportPlane_01",
+                    "path": "TransportPlane_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Cockpit_Stick_L_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Cockpit_Stick_L_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Cockpit_Stick_R_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Cockpit_Stick_R_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Door_High_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Door_High_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Door_Low_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Door_Low_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Flap_L_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Flap_L_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Flap_L_02",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Flap_L_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Flap_R_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Flap_R_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Flap_R_02",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Flap_R_02",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Flap_Tail_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Flap_Tail_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Flap_Tail_L_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Flap_Tail_L_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Flap_Tail_R_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Flap_Tail_R_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Glass_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Glass_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Wheel_Door_Front_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Wheel_Door_Front_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Wheel_Door_L_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Wheel_Door_L_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Wheel_Door_R_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Wheel_Door_R_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Wheel_F_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Wheel_F_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Wheels_L_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Wheels_L_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_TransportPlane_Wheels_R_01",
+                    "path": "TransportPlane_01.SM_Veh_TransportPlane_Wheels_R_01",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Truck_01",
+            "contextDataList": [
+                {
+                    "partName": "Truck_01",
+                    "path": "Truck_01",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Truck_01_Glass",
+                    "path": "Truck_01.SM_Veh_Truck_01_Glass",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Truck_01_SteeringW",
+                    "path": "Truck_01.SM_Veh_Truck_01_SteeringW",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Truck_01_Wheel_fl",
+                    "path": "Truck_01.SM_Veh_Truck_01_Wheel_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Truck_01_Wheel_fr",
+                    "path": "Truck_01.SM_Veh_Truck_01_Wheel_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Truck_01_Wheel_rl",
+                    "path": "Truck_01.SM_Veh_Truck_01_Wheel_rl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "SM_Veh_Truck_01_Wheel_rr",
+                    "path": "Truck_01.SM_Veh_Truck_01_Wheel_rr",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Truck_01_Canopy",
+            "contextDataList": [
+                {
+                    "partName": "Truck_01_Canopy",
+                    "path": "Truck_01_Canopy",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Truck_01_Canopy_Structure",
+            "contextDataList": [
+                {
+                    "partName": "Truck_01_Canopy_Structure",
+                    "path": "Truck_01_Canopy_Structure",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Truck_01_Tanker",
+            "contextDataList": [
+                {
+                    "partName": "Truck_01_Tanker",
+                    "path": "Truck_01_Tanker",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Truck_01_Tray",
+            "contextDataList": [
+                {
+                    "partName": "Truck_01_Tray",
+                    "path": "Truck_01_Tray",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Truck_01_Tray 1",
+            "contextDataList": [
+                {
+                    "partName": "Truck_01_Tray 1",
+                    "path": "Truck_01_Tray 1",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        },
+        {
+            "prefabName": "Truck_wStates",
+            "contextDataList": [
+                {
+                    "partName": "Truck_wStates",
+                    "path": "Truck_wStates",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "STATES_Sitting",
+                    "path": "Truck_wStates.STATES_Sitting",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "STATES_Gear",
+                    "path": "Truck_wStates.STATES_Gear",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "STATES_Truck",
+                    "path": "Truck_wStates.STATES_Truck",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "OffRoad_Truck",
+                    "path": "Truck_wStates.OffRoad_Truck",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "back_lights_red",
+                    "path": "Truck_wStates.OffRoad_Truck.back_lights_red",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "back_lights_white",
+                    "path": "Truck_wStates.OffRoad_Truck.back_lights_white",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "body",
+                    "path": "Truck_wStates.OffRoad_Truck.body",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "dependent_suspension1",
+                    "path": "Truck_wStates.OffRoad_Truck.body.dependent_suspension1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "dependent_suspension2",
+                    "path": "Truck_wStates.OffRoad_Truck.body.dependent_suspension2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_back",
+                    "path": "Truck_wStates.OffRoad_Truck.door_back",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_L",
+                    "path": "Truck_wStates.OffRoad_Truck.door_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "door_R",
+                    "path": "Truck_wStates.OffRoad_Truck.door_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft",
+                    "path": "Truck_wStates.OffRoad_Truck.driveshaft",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft_end",
+                    "path": "Truck_wStates.OffRoad_Truck.driveshaft_end",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "driveshaft_star",
+                    "path": "Truck_wStates.OffRoad_Truck.driveshaft_star",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "engine",
+                    "path": "Truck_wStates.OffRoad_Truck.engine",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "engine_fan",
+                    "path": "Truck_wStates.OffRoad_Truck.engine_fan",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "frame",
+                    "path": "Truck_wStates.OffRoad_Truck.frame",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_bl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b1_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_br",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b1_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_fl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b1_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b1_fr",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b1_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_bl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b2_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_br",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b2_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_fl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b2_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_b2_fr",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_b2_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_bl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t1_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_br",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t1_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_fl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t1_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t1_fr",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t1_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_bl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t2_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_br",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t2_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_fl",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t2_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gas spring_t2_fr",
+                    "path": "Truck_wStates.OffRoad_Truck.gas spring_t2_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gear_changer1",
+                    "path": "Truck_wStates.OffRoad_Truck.gear_changer1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "gear_changer2",
+                    "path": "Truck_wStates.OffRoad_Truck.gear_changer2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "hood",
+                    "path": "Truck_wStates.OffRoad_Truck.hood",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "lights",
+                    "path": "Truck_wStates.OffRoad_Truck.lights",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal1",
+                    "path": "Truck_wStates.OffRoad_Truck.pedal1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal2",
+                    "path": "Truck_wStates.OffRoad_Truck.pedal2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pedal3",
+                    "path": "Truck_wStates.OffRoad_Truck.pedal3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer1",
+                    "path": "Truck_wStates.OffRoad_Truck.pointer1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer2",
+                    "path": "Truck_wStates.OffRoad_Truck.pointer2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer3",
+                    "path": "Truck_wStates.OffRoad_Truck.pointer3",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "pointer4",
+                    "path": "Truck_wStates.OffRoad_Truck.pointer4",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_bl",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_b_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_br",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_b_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_fl",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_b_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_b_fr",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_b_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_bl",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_m_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_br",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_m_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_fl",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_m_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_m_fr",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_m_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_bl",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_t_bl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_br",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_t_br",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_fl",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_t_fl",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "spring_t_fr",
+                    "path": "Truck_wStates.OffRoad_Truck.spring_t_fr",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "steering_joint",
+                    "path": "Truck_wStates.OffRoad_Truck.steering_joint",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "steering_wheel",
+                    "path": "Truck_wStates.OffRoad_Truck.steering_wheel",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_l",
+                    "path": "Truck_wStates.OffRoad_Truck.turn_signal_l",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "turn_signal_r",
+                    "path": "Truck_wStates.OffRoad_Truck.turn_signal_r",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_BL",
+                    "path": "Truck_wStates.OffRoad_Truck.W_BL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_BR",
+                    "path": "Truck_wStates.OffRoad_Truck.W_BR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_FL",
+                    "path": "Truck_wStates.OffRoad_Truck.W_FL",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "W_FR",
+                    "path": "Truck_wStates.OffRoad_Truck.W_FR",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WH_L",
+                    "path": "Truck_wStates.OffRoad_Truck.WH_L",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "WH_R",
+                    "path": "Truck_wStates.OffRoad_Truck.WH_R",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "wipers1",
+                    "path": "Truck_wStates.OffRoad_Truck.wipers1",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "wipers2",
+                    "path": "Truck_wStates.OffRoad_Truck.wipers2",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "GearShifter",
+                    "path": "Truck_wStates.GearShifter",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Neutral",
+                    "path": "Truck_wStates.GearShifter.Neutral",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "First",
+                    "path": "Truck_wStates.GearShifter.First",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Second",
+                    "path": "Truck_wStates.GearShifter.Second",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Third",
+                    "path": "Truck_wStates.GearShifter.Third",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Door (door_L)",
+                    "path": "Truck_wStates.Door (door_L)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Open",
+                    "path": "Truck_wStates.Door (door_L).Open",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Close",
+                    "path": "Truck_wStates.Door (door_L).Close",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Door (door_R)",
+                    "path": "Truck_wStates.Door (door_R)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Open",
+                    "path": "Truck_wStates.Door (door_R).Open",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Close",
+                    "path": "Truck_wStates.Door (door_R).Close",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Door (door_back)",
+                    "path": "Truck_wStates.Door (door_back)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Open",
+                    "path": "Truck_wStates.Door (door_back).Open",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Close",
+                    "path": "Truck_wStates.Door (door_back).Close",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Door (hood)",
+                    "path": "Truck_wStates.Door (hood)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Open",
+                    "path": "Truck_wStates.Door (hood).Open",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Close",
+                    "path": "Truck_wStates.Door (hood).Close",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Seat (Drivers)",
+                    "path": "Truck_wStates.Seat (Drivers)",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Sit",
+                    "path": "Truck_wStates.Seat (Drivers).Sit",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Stand",
+                    "path": "Truck_wStates.Seat (Drivers).Stand",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Seat",
+                    "path": "Truck_wStates.Seat",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Enter",
+                    "path": "Truck_wStates.Seat.Enter",
+                    "displayName": "",
+                    "info": ""
+                },
+                {
+                    "partName": "Exit",
+                    "path": "Truck_wStates.Seat.Exit",
+                    "displayName": "",
+                    "info": ""
+                }
+            ]
+        }
+    ]
+}
